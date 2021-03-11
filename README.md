@@ -14,7 +14,6 @@
 2. Learn to play Song《Revolution》，
 3. Visit the Campcom Company in Japan
                   
-```javascript
-console.log("Welcome to my Personal Website!")
-```
+`console.log("Welcome to my Personal Website")`
+
 
