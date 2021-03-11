@@ -15,6 +15,6 @@
 3. Visit the Campcom Company in Japan
                   
 ```javascript
-Welcome to my Personal Website!
+console.log("Welcome to my Personal Website!")
 ```
 
