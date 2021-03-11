@@ -20,8 +20,8 @@
 
 这是多行代码
 ```
-var a = 1;
-var b = 2;
-var c = a + b ;
-console.long(c)
+var a = "Gu";
+var b = "Kai";
+var c = "Yi"；
+console.log（My name is"a+b+c"）
 ```
