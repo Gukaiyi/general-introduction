@@ -1,5 +1,5 @@
 # General-introduction
-## Name:GU KaiYi
+## Name:GU Kai Yi
 ## Age:25 
 ## Gradation:CUCN(Nanjing Media College)
 ## HomeTown：JiangSu SuZhou
