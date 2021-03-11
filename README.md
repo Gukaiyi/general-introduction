@@ -13,7 +13,15 @@
 1. Do some Amazing App or Game that peopel do really like them
 2. Learn to play Song《Revolution》，
 3. Visit the Campcom Company in Japan
-                  
-`console.log("Welcome to my Personal Website")`
+ 
+ 
+这是一行代码`console.log("Welcome to my Personal Website")`
 
 
+这是多行代码
+```
+var a = 1;
+var b = 2;
+var c = a + b ;
+console.long(c)
+```
