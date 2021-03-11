@@ -23,5 +23,5 @@
 var a = "Gu";
 var b = "Kai";
 var c = "Yi"；
-console.log（My name is"a+b+c"）
+console.log（"My name is"+a+b+c）
 ```
